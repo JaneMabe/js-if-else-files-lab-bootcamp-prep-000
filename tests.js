@@ -2,7 +2,7 @@ var index = require("./index.js")
 
 if (index.name === "joe") {
     console.log("The name is correct")
-} else if { Joe
+} else  { "susan"
     console.log("The name is correct")
 }
 
@@ -10,6 +10,6 @@ if (index.name === "joe") {
 
 if (index.height === 74) {
     console.log("The height is correct")
-} else {
-    console.log("Expected: 70, Received: "+index.height)
+} else if {"70"
+    console.log("The height is corret")
 }
